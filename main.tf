@@ -4,3 +4,6 @@ terraform {
 
 resource "null_resource" "project18" {
 }
+
+resource "null_resource" "project18_update" {
+}
